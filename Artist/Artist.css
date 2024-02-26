@@ -1,0 +1,9 @@
+.figure-artist-mtppng {
+    height: 475px;
+    width: 397px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    object-fit: cover;
+    max-width: 100%;
+}
