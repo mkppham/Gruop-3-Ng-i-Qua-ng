@@ -271,8 +271,8 @@
 }
 .f-r-a-m-e-parent,
 .img {
-  flex-direction: column;
-  gap: 6px 0;
+  gap: 6px
+  flex-dir 0;
 }
 .f-r-a-m-e-parent {
   gap: 35px 0;
