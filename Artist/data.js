@@ -1,9 +1,8 @@
 let songs = [
     {
-        name: 'song 1',
-        path: 'musics/Song 1.mp3',
-        artist: 'artist 1',
-        cover: 'images/cover 1.png'
+        name:'7th Floor Tango - Silent Partner',
+        path:'Artist/audio/Buông Đôi Tay Nhau Ra - OFFICIAL MUSIC VIDEO - Sơn Tùng M-TP.mp3',
+        artist:'Artist Y01',
+        image:'img/artist-mtp.png'
     },
-    
-]
+];
